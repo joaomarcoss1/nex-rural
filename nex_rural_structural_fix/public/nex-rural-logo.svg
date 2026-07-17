@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nex Rural</title>
+  <desc id="desc">Logo Nex Rural em verde e dourado com campo, sol e monograma NR.</desc>
+  <rect width="512" height="512" rx="96" fill="#163B2C"/>
+  <path d="M96 334C154 274 214 244 276 244C334 244 381 269 416 320V404H96V334Z" fill="#2F7D4F"/>
+  <path d="M96 372C154 327 213 305 273 305C332 305 380 328 416 374V404H96V372Z" fill="#C49A45"/>
+  <circle cx="360" cy="148" r="42" fill="#E3C66F"/>
+  <path d="M128 180C174 139 226 118 284 118C334 118 376 133 410 164" stroke="#F5E7B7" stroke-width="20" stroke-linecap="round"/>
+  <path d="M144 340V150H194L288 277V150H340V340H292L196 211V340H144Z" fill="#F8F3DF"/>
+  <path d="M352 340L303 268H266V226H356C373 226 386 212 386 196C386 179 373 166 356 166H266V124H359C401 124 435 156 435 196C435 224 419 249 395 261L448 340H352Z" fill="#F8F3DF"/>
+  <path d="M112 420H400" stroke="#F8F3DF" stroke-width="18" stroke-linecap="round"/>
+</svg>
